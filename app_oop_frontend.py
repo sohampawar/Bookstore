@@ -15,7 +15,7 @@ Close
 """
 from tkinter import *
 # We will import a new Script
-from app_opp_backend import Database
+from app_oop_backend import Database
 
 database = Database("books.db")
 
